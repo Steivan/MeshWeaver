@@ -223,6 +223,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MeshWeaver.Search.Test", "t
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MeshWeaver.Azure.Publish", "src\MeshWeaver.Azure.Publish\MeshWeaver.Azure.Publish.csproj", "{844B4566-81A4-4CB2-9761-9B174FB7BCCB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeshWeaver.Mesh.PostgreSql", "src\MeshWeaver.Mesh.PostgreSql\MeshWeaver.Mesh.PostgreSql.csproj", "{D8BFEB8E-FC77-420F-AD2A-F70398CA4EA9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -593,6 +595,10 @@ Global
 		{844B4566-81A4-4CB2-9761-9B174FB7BCCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{844B4566-81A4-4CB2-9761-9B174FB7BCCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{844B4566-81A4-4CB2-9761-9B174FB7BCCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8BFEB8E-FC77-420F-AD2A-F70398CA4EA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8BFEB8E-FC77-420F-AD2A-F70398CA4EA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8BFEB8E-FC77-420F-AD2A-F70398CA4EA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8BFEB8E-FC77-420F-AD2A-F70398CA4EA9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
